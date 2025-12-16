@@ -1,0 +1,23 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+
+# .NET Core
+project.lock.json
+artifacts/
+
+# Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
